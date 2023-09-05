@@ -1,0 +1,52 @@
+{
+  "individualResults": [
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "initial schema",
+          "type": "SQL",
+          "filepath": "C:\\Users\\petri\\UC Boulder Masters Pathway Work\\initialcapacity-the-milk-problem-67daa86f5ca0a90f7bf1b28a80e5f081e1bc8436\\databases\\milk\\V1__initial_schema.sql",
+          "executionTime": 44
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.21.2",
+      "database": "milk_test",
+      "warnings": [],
+      "timestamp": "2023-08-25T16:50:06.020388600",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "initial schema",
+          "type": "SQL",
+          "filepath": "C:\\Users\\petri\\UC Boulder Masters Pathway Work\\initialcapacity-the-milk-problem-67daa86f5ca0a90f7bf1b28a80e5f081e1bc8436\\databases\\milk\\V1__initial_schema.sql",
+          "executionTime": 37
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.21.2",
+      "database": "milk_development",
+      "warnings": [],
+      "timestamp": "2023-08-31T16:52:02.969227700",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    }
+  ]
+}
